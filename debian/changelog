@@ -1,3 +1,10 @@
+pcsc-lite (1.9.5-3ubuntu1) jammy; urgency=medium
+
+  * Fix dh_installsystemd doesn't handle files in /usr/lib/systemd/system.
+    Closes: #103429 and LP: #1971984
+
+ -- Brian Murray <brian@ubuntu.com>  Tue, 27 Jun 2023 16:46:08 -0700
+
 pcsc-lite (1.9.5-3) unstable; urgency=medium
 
   [ Debian Janitor ]

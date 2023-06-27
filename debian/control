@@ -1,7 +1,8 @@
 Source: pcsc-lite
 Section: misc
 Priority: optional
-Maintainer: Ludovic Rousseau <rousseau@debian.org>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Ludovic Rousseau <rousseau@debian.org>
 Build-Depends: autoconf-archive,
 	debhelper-compat (= 13),
 	flex,
